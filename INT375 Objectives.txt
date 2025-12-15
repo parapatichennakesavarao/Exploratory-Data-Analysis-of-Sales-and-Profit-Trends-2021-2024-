@@ -1,0 +1,39 @@
+🧰 Final Updated Python Toolbox Project – 8 Refined Objectives
+ Objective 1: Smart Data Cleaning using Pandas
+ Topics Covered: Pandas, Data Cleaning
+Goal: Handle missing values, duplicates, and fix inconsistent formats.
+Visualization: Heatmap of missing data using Seaborn
+
+ Objective 2: Summary Statistics and Distribution Analysis
+ Topics Covered: NumPy, Summary Stats
+Goal: Use NumPy to compute mean, median, std dev for Sales and Profit.
+ Visualization: Seaborn histogram with KDE overlay
+
+Objective 3: Customized Sales Visualization using Matplotlib
+Topics Covered: Matplotlib, Grouping, Customization
+Goal: Visualize total sales by Region and Category with full styling.
+Visualization: Grouped bar plot with labels, color palette, legends
+
+ Objective 4: Interactive Profit vs. Sales Analysis with Category & Region Segmentation
+🎯 Goal:
+Create a scatter plot showing the relationship between Sales and Profit, with visual cues:
+
+Hue (color) for Region
+
+Style/Shape for Category
+
+Size for Quantity 
+
+ Objective 5: Heatmap Analysis for Correlation & Trends
+ Topics Covered: Correlation, Seaborn Heatmap
+ Goal: Create correlation matrix of numerical columns and visualize using heatmap.
+ Visualization: Correlation heatmap with annotations
+
+ Objective 6: Statistical Hypothesis Testing – Z-test, t-test, p-test
+ Topics Covered: Z-test, t-test, p-values
+ Goal: Compare average Sales/Profit between two regions/categories
+Visualization: Bar plot with test results annotated
+
+ Objective 7: Chi-Squared Test between Category and Region
+We’ll test if there's a significant association between Product Category and Region — a valid categorical test, and it fits your dataset.
+
