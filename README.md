@@ -18,7 +18,7 @@ This project demonstrates a complete Python Data Science toolbox using:
 
 \## Objectives
 
-\- Data Cleaning
+\- Data Cleaningg
 
 \- Summary Statistics
 
